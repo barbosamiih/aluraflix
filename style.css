@@ -6,4 +6,6 @@ body {
 }
 
 header {
-    font-size: 0%;
+    font-size: 60px;
+    border: bottom: double 5px  pink
+    
